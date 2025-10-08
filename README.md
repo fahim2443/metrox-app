@@ -154,7 +154,7 @@ We'd love to hear from you!
 
 - **Bug Reports**: [Open an Issue](https://github.com/fahim2443/metrox-app/issues)
 - **Feature Requests**: [Request a Feature](https://github.com/fahim2443/metrox-app/issues/new)
-- **Email**: your.email@example.com
+- **Email**: fahim2443@gmail.com
 
 ---
 
