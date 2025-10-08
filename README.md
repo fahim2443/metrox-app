@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **MD Shoriful Islam Fahim**
 
 - GitHub: [@fahim2443](https://github.com/fahim2443)
-- Email: your.email@example.com
+- Email: fahim2443@gmail.com
 
 ---
 
