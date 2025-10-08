@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# APK files (upload via GitHub Releases instead)
+*.apk
+
+# Build files
+*.aab
